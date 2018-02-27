@@ -1,7 +1,8 @@
 # README
+## Managing the Course *Lie Groups and Lie Algebras* (李群李代数)
 
-This repository acts as an auxiliary platform for the graduate course *Lie Groups and Lie Algebras* (李群李代数),
-a graduates course in the Department of Physics, Beijing Normal University.
+This repository acts as an auxiliary platform for the graduate course *Lie Groups and Lie Algebras*,
+a graduates course in the [Department of Physics, Beijing Normal University](http://physics.bnu.edu.cn).
 
 这是北京师范大学物理系硕士学位基础课《李群李代数》的教学辅助平台, 用于和学生互动.
 
