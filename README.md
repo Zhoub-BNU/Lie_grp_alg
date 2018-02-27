@@ -9,4 +9,4 @@ This course is for graduates in the Department of Physics, Beijing Normal Univer
 - [授课所用的讲义](Lie_grp_alg.zip)，需要密码.  密码只在课堂上披露 **(因为尚在草拟状态，其中存在错误, 恕不外传)**
 - 课程中的**问题答疑**可[点击此处](questions.md)
 - 查看**作业题**可[点击此处](exercises.md)
-- 关于 **LaTeX 公式**的排版, 可以[参考这个示例文件](https://gitbuh.com/Zhou-BNU/math_phys/LaTeX-examples.md)
+- 关于 **LaTeX 公式**的排版, 可以[参考这个示例文件](https://github.com/Zhoub-BNU/math_phys/blob/master/LaTeX-examples.md)
